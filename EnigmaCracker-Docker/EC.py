@@ -185,3 +185,10 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+# Add this configuration to your settings.json file
+{
+  "python.analysis.extraPaths": [
+    "./C:/Users/DELL/Desktop/EnigmaCracker/EnigmaCracker-Docker"
+  ]
+}
